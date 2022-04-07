@@ -1,2 +1,2 @@
 *.html linguist-detectable=false
-*.spring-boot linguist-detectable=true
+*.java linguist-detectable=true
